@@ -1,0 +1,11 @@
+html {
+    /* Prevents padding from adding extra widtgh or height to the page.  */
+    /* Keeps it from forcing a forcing a scroll bar to the page. */
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+}
